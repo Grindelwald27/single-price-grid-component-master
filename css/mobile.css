@@ -1,0 +1,13 @@
+@media (min-width: 360px) and (max-width: 767px){
+	div.container{
+		margin: 15% auto;
+	}
+
+	header {
+		border-radius: 10px 10px 0px 0px;
+	}
+
+	section#us {
+		border-radius: 0px 0px 10px 10px;
+	}
+}

@@ -1,0 +1,52 @@
+@media (min-width: 768px) and (max-width: 2080px){
+
+	header {
+		font-size: 0.9em;
+		border-radius: 10px 10px 0px 0px;
+		margin-top: 60px;
+	}
+
+	header h1 {
+		font-size: 0.9em;
+	}
+
+	header h2 {
+		font-size: 0.9em;
+	}
+
+	div.container {
+		width: 40%;
+		min-width: 500px;
+		max-width: 500px;
+	}
+
+	main {
+		display: flex;
+		flex-direction: row;
+	}
+
+	section#plans {
+		border-radius: 0px 0px 0px 10px;
+		font-size: 10px;
+	}
+
+	section#plans h1 {
+		font-size: 16px;
+	}
+
+	section#plans h2 {
+		font-size: 16px;
+	}
+
+	section#us {
+		border-radius: 0px 0px 10px 0px;
+		padding: 20px;
+		padding-right: 65px;
+		font-size: 0.7em;
+	}
+
+	section#us h1 {
+		margin-top: 10px;
+		font-size: 16px;
+	}
+}
